@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_cost,supplier
+1,Laptop Pro,Electronics,556.86,"Wilson, Hampton and Padilla"
+2,Desktop Station,Electronics,716.23,Davies LLC
+3,"Monitor 27""",Electronics,838.87,"Hendricks, Henry and Martinez"
+4,Wireless Mouse,Electronics,564.7,Hayes Ltd
+5,Keyboard Elite,Electronics,713.68,Osborn-Cochran
+6,Office Chair,Furniture,699.08,Contreras-Mckinney
+7,Standing Desk,Furniture,640.5,"Daniels, Vance and York"
+8,Conference Table,Furniture,504.99,"Mckinney, Graves and Thompson"
+9,Filing Cabinet,Furniture,592.59,Hicks-Martinez
+10,Bookshelf,Furniture,690.06,Conner and Sons
+11,Paper Ream,Office Supplies,41.16,Johnson-Spencer
+12,Pen Set,Office Supplies,50.89,Mcdonald-Bird
+13,Notebook Pack,Office Supplies,37.75,Salazar Inc
+14,Stapler Pro,Office Supplies,32.4,Parker Ltd
+15,Calculator,Office Supplies,34.43,"Mendoza, Jenkins and Ortiz"

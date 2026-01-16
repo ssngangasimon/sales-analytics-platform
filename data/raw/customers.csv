@@ -1,0 +1,501 @@
+customer_id,customer_name,industry,account_created,customer_segment
+1,Kelly-Santiago,Retail,2025-12-06,Mid-Market
+2,"Zuniga, Wong and Lynch",Manufacturing,2021-09-01,Enterprise
+3,Ferguson and Sons,Education,2022-02-08,Mid-Market
+4,Ford LLC,Finance,2023-09-26,Enterprise
+5,"Watts, Robinson and Nguyen",Education,2021-09-02,Small Business
+6,Perez Inc,Finance,2024-11-13,Enterprise
+7,Morales-Jones,Healthcare,2025-01-01,Small Business
+8,"Walter, Edwards and Rios",Manufacturing,2025-06-10,Mid-Market
+9,Wilkerson-Day,Education,2023-12-21,Mid-Market
+10,Baker and Sons,Education,2022-02-17,Mid-Market
+11,"Hoffman, Baker and Richards",Retail,2025-09-23,Mid-Market
+12,"Ross, Robinson and Bright",Retail,2022-08-03,Small Business
+13,"Snyder, Campos and Callahan",Education,2022-02-19,Enterprise
+14,Burton Ltd,Healthcare,2024-09-20,Mid-Market
+15,Carlson-Cruz,Finance,2025-04-26,Enterprise
+16,"Ferrell, Rice and Maddox",Education,2021-07-06,Enterprise
+17,Frazier Inc,Healthcare,2022-02-04,Mid-Market
+18,"Dyer, Potter and Mack",Finance,2025-06-12,Mid-Market
+19,Rodriguez-Graham,Education,2022-05-05,Mid-Market
+20,Smith-Bowen,Retail,2023-08-17,Mid-Market
+21,"Baker, Mason and White",Technology,2022-06-10,Enterprise
+22,Harrell LLC,Technology,2022-06-02,Enterprise
+23,"Romero, Gonzalez and Brooks",Finance,2023-10-14,Small Business
+24,Ryan PLC,Manufacturing,2022-12-16,Mid-Market
+25,George Group,Healthcare,2023-12-26,Small Business
+26,Rodriguez LLC,Retail,2025-06-15,Enterprise
+27,Allen-Allen,Manufacturing,2023-06-16,Mid-Market
+28,"Arroyo, Miller and Tucker",Technology,2021-09-17,Small Business
+29,Spence PLC,Technology,2023-03-04,Mid-Market
+30,Anderson Group,Healthcare,2022-09-16,Mid-Market
+31,"Martin, Rose and Obrien",Education,2025-09-22,Mid-Market
+32,Hickman Ltd,Retail,2023-05-17,Enterprise
+33,"Harris, Collins and Carney",Manufacturing,2022-02-07,Mid-Market
+34,"Brooks, Lam and Hayes",Retail,2023-08-13,Mid-Market
+35,Walker LLC,Finance,2025-07-30,Small Business
+36,Chapman and Sons,Education,2021-11-01,Enterprise
+37,"Robinson, Jones and Welch",Healthcare,2025-04-25,Small Business
+38,Jones Inc,Manufacturing,2022-06-22,Enterprise
+39,Jones-Young,Manufacturing,2025-12-24,Enterprise
+40,"Washington, Ryan and Cummings",Technology,2022-05-09,Enterprise
+41,"Johnston, Sanchez and Kennedy",Retail,2022-06-30,Mid-Market
+42,Lee-Davis,Retail,2023-11-29,Mid-Market
+43,Gomez-Jenkins,Manufacturing,2025-11-01,Small Business
+44,"Brown, Valdez and Lucas",Technology,2021-05-22,Mid-Market
+45,Powell LLC,Finance,2021-04-13,Enterprise
+46,Wright and Sons,Retail,2021-09-24,Small Business
+47,"West, Henderson and Ramirez",Healthcare,2021-06-05,Enterprise
+48,Baxter Inc,Education,2025-12-11,Mid-Market
+49,Morton-Chase,Retail,2023-04-17,Small Business
+50,Williams PLC,Finance,2022-10-31,Enterprise
+51,Novak and Sons,Healthcare,2025-11-27,Small Business
+52,Russell Group,Technology,2024-08-01,Enterprise
+53,Hancock Inc,Finance,2021-04-19,Small Business
+54,Gray Group,Finance,2025-04-11,Small Business
+55,House-Glover,Education,2025-09-06,Mid-Market
+56,Henderson-Bernard,Manufacturing,2023-07-03,Mid-Market
+57,"Stanley, Tucker and Lee",Retail,2023-08-11,Enterprise
+58,Novak PLC,Manufacturing,2025-02-23,Enterprise
+59,"Daniels, Adkins and Brown",Retail,2023-02-14,Mid-Market
+60,"Woods, Calhoun and Schmidt",Education,2024-06-29,Mid-Market
+61,Yu Inc,Manufacturing,2023-07-28,Enterprise
+62,Jones Inc,Retail,2024-11-24,Small Business
+63,"Hensley, Powell and David",Retail,2021-08-29,Enterprise
+64,"Sanchez, Wheeler and Harvey",Education,2021-07-20,Enterprise
+65,Sandoval-Cunningham,Technology,2022-05-21,Mid-Market
+66,Donovan-Harris,Finance,2024-10-11,Small Business
+67,"Edwards, Baker and Anderson",Retail,2024-07-29,Small Business
+68,"Evans, Stewart and Walton",Retail,2025-02-27,Small Business
+69,Smith PLC,Technology,2024-12-27,Mid-Market
+70,"Ferrell, Jones and Lewis",Retail,2022-10-10,Small Business
+71,Anderson-Bailey,Retail,2023-12-07,Mid-Market
+72,Suarez LLC,Education,2022-04-06,Mid-Market
+73,Moore-Bass,Technology,2023-09-13,Mid-Market
+74,"Turner, Riggs and Roman",Technology,2023-10-04,Small Business
+75,"Smith, Montoya and Evans",Education,2023-12-24,Mid-Market
+76,"Garcia, Humphrey and Baker",Technology,2024-06-06,Small Business
+77,Newton and Sons,Healthcare,2022-02-25,Mid-Market
+78,Campbell-Clark,Education,2024-03-11,Enterprise
+79,Harris-Walters,Manufacturing,2025-06-02,Enterprise
+80,Wagner-King,Technology,2025-10-25,Small Business
+81,Davis Group,Technology,2021-12-10,Small Business
+82,Williams-Cook,Healthcare,2023-10-03,Small Business
+83,Walsh LLC,Finance,2023-02-05,Enterprise
+84,Figueroa PLC,Healthcare,2025-01-03,Small Business
+85,"Patterson, Smith and Jones",Technology,2022-01-30,Small Business
+86,"Mckee, Gardner and Davenport",Manufacturing,2023-04-26,Small Business
+87,"Tran, Jordan and Williams",Technology,2024-11-11,Mid-Market
+88,Nolan-Flynn,Technology,2023-02-24,Mid-Market
+89,Nolan and Sons,Technology,2022-03-28,Mid-Market
+90,"Wright, Garcia and Deleon",Manufacturing,2021-11-11,Small Business
+91,Dickson-Brady,Manufacturing,2021-06-21,Small Business
+92,Hancock and Sons,Healthcare,2023-07-05,Small Business
+93,Johnson-Doyle,Education,2024-04-22,Small Business
+94,Patton-Jenkins,Education,2024-08-06,Enterprise
+95,"Shields, Cochran and Adams",Finance,2023-02-25,Small Business
+96,"Rodriguez, Brennan and Garrison",Education,2022-05-26,Small Business
+97,Gonzalez Group,Healthcare,2023-10-29,Mid-Market
+98,Torres-Pope,Healthcare,2025-12-14,Small Business
+99,Walker Ltd,Finance,2023-09-13,Mid-Market
+100,Ross LLC,Healthcare,2022-08-27,Small Business
+101,Rasmussen LLC,Retail,2022-05-25,Enterprise
+102,May-Ross,Finance,2025-04-12,Enterprise
+103,"Rivera, Johnson and Wiley",Manufacturing,2025-06-02,Enterprise
+104,White-Estes,Education,2025-01-04,Small Business
+105,Johnson-Carlson,Finance,2025-04-13,Small Business
+106,Chandler-Edwards,Retail,2023-08-31,Enterprise
+107,"Joyce, Wilson and Lam",Technology,2025-04-09,Mid-Market
+108,Scott Ltd,Healthcare,2021-03-28,Enterprise
+109,Smith-Frost,Manufacturing,2021-10-21,Small Business
+110,"Mcdaniel, Bentley and Mclaughlin",Technology,2024-05-20,Mid-Market
+111,Diaz Inc,Education,2025-05-04,Mid-Market
+112,"Mccall, Hanson and Alvarado",Retail,2024-12-05,Small Business
+113,Cortez LLC,Healthcare,2023-02-01,Mid-Market
+114,"Parker, Ortiz and Powell",Education,2022-11-14,Mid-Market
+115,Spencer-Lee,Healthcare,2026-01-01,Mid-Market
+116,"Bentley, Byrd and Orr",Retail,2024-01-16,Mid-Market
+117,"Carroll, Sullivan and Bass",Finance,2021-06-15,Mid-Market
+118,Mitchell-Jordan,Manufacturing,2021-06-21,Enterprise
+119,"Lawson, Morris and Ramos",Education,2023-06-08,Small Business
+120,"Lewis, Kennedy and Santana",Finance,2025-04-01,Enterprise
+121,"Jackson, Miller and Robertson",Retail,2025-01-16,Mid-Market
+122,"Harvey, Davis and Crane",Retail,2023-06-21,Small Business
+123,Chambers and Sons,Education,2025-08-09,Small Business
+124,Hernandez Inc,Manufacturing,2021-02-09,Small Business
+125,Riggs PLC,Manufacturing,2021-12-14,Mid-Market
+126,Gibson Ltd,Retail,2024-09-14,Enterprise
+127,"Lee, Horton and Snyder",Technology,2022-03-07,Mid-Market
+128,Hernandez Ltd,Finance,2023-04-16,Enterprise
+129,Stafford Inc,Education,2024-02-25,Mid-Market
+130,Robinson-Brock,Education,2024-06-20,Mid-Market
+131,"Holmes, Williams and Wright",Education,2024-02-25,Small Business
+132,Bryant Group,Retail,2021-06-04,Mid-Market
+133,"Schmidt, Hansen and Stewart",Manufacturing,2024-06-12,Small Business
+134,Salazar-Ball,Education,2021-06-22,Mid-Market
+135,"Simmons, Meadows and Griffin",Finance,2025-11-21,Enterprise
+136,Manning Group,Retail,2025-10-26,Small Business
+137,Green-Wright,Finance,2022-09-11,Small Business
+138,"Ramirez, Strickland and Washington",Manufacturing,2024-02-15,Small Business
+139,Hill Inc,Finance,2025-09-29,Small Business
+140,"Mitchell, Nelson and Flores",Finance,2023-06-30,Enterprise
+141,"Miller, Hernandez and Reyes",Healthcare,2021-08-31,Mid-Market
+142,Mccarthy Inc,Manufacturing,2024-04-29,Mid-Market
+143,Russell-Daniels,Manufacturing,2025-04-30,Small Business
+144,Brown-Wall,Education,2024-11-14,Mid-Market
+145,Stein-Silva,Healthcare,2025-09-19,Enterprise
+146,"Smith, Gilmore and Johnston",Finance,2023-06-03,Mid-Market
+147,Smith-Bell,Technology,2022-01-19,Enterprise
+148,Castaneda-Ashley,Manufacturing,2022-02-18,Enterprise
+149,Medina-Navarro,Healthcare,2021-11-11,Enterprise
+150,"Hurst, Freeman and Nelson",Healthcare,2024-05-22,Mid-Market
+151,Johnson-Rogers,Education,2024-03-19,Enterprise
+152,"Yates, Ramsey and Pittman",Education,2023-12-04,Small Business
+153,Hooper PLC,Retail,2025-10-14,Enterprise
+154,Meadows PLC,Retail,2024-02-24,Mid-Market
+155,"Alvarado, Miller and Patterson",Manufacturing,2022-04-08,Small Business
+156,White-Green,Technology,2022-09-25,Mid-Market
+157,Lewis-Murphy,Education,2025-05-15,Enterprise
+158,Ramirez-Bean,Manufacturing,2024-06-15,Mid-Market
+159,King-Miller,Healthcare,2025-04-17,Mid-Market
+160,Curry Inc,Healthcare,2021-05-20,Small Business
+161,Walker-Jones,Retail,2021-06-04,Mid-Market
+162,"Williams, Johnson and Wright",Healthcare,2021-05-15,Mid-Market
+163,Howell and Sons,Finance,2022-03-16,Small Business
+164,Wells Inc,Finance,2023-11-15,Mid-Market
+165,"Gould, Marshall and Scott",Manufacturing,2025-01-25,Mid-Market
+166,Jackson-Lawson,Retail,2025-06-16,Enterprise
+167,"Higgins, Strickland and Martin",Manufacturing,2024-12-04,Enterprise
+168,Rodriguez-Johnson,Retail,2022-04-22,Enterprise
+169,Johnston-Odonnell,Retail,2025-06-04,Mid-Market
+170,Sanders-Espinoza,Healthcare,2022-03-25,Small Business
+171,Vargas Ltd,Manufacturing,2023-10-30,Small Business
+172,Garcia LLC,Manufacturing,2023-10-01,Small Business
+173,"Burke, Martinez and Riggs",Manufacturing,2022-06-03,Small Business
+174,Reed Group,Manufacturing,2024-05-19,Small Business
+175,"Wood, Hunter and Peterson",Retail,2023-08-02,Enterprise
+176,Short-Garcia,Healthcare,2023-11-26,Small Business
+177,Reid-Poole,Finance,2025-05-10,Mid-Market
+178,"Hernandez, Thompson and Boyd",Retail,2025-05-17,Small Business
+179,"Nelson, Morton and Medina",Manufacturing,2025-07-26,Enterprise
+180,Marshall-Petersen,Healthcare,2025-03-16,Enterprise
+181,"Adams, Christian and Rivas",Education,2025-10-29,Small Business
+182,Ramirez Group,Education,2023-08-04,Mid-Market
+183,Christensen PLC,Retail,2025-01-29,Small Business
+184,"Barnett, Rogers and Snyder",Finance,2021-03-07,Small Business
+185,White-Lewis,Retail,2024-03-04,Enterprise
+186,Peterson-Beard,Manufacturing,2023-11-10,Enterprise
+187,"Beard, Peters and Black",Education,2021-12-21,Small Business
+188,Miller Ltd,Retail,2024-08-01,Enterprise
+189,Freeman-Chang,Healthcare,2026-01-02,Small Business
+190,"Alvarez, Joseph and West",Manufacturing,2023-08-28,Enterprise
+191,Davis and Sons,Education,2021-04-07,Enterprise
+192,Holt-Torres,Manufacturing,2025-01-28,Mid-Market
+193,"Wood, Tran and Cooper",Finance,2023-04-19,Mid-Market
+194,"Pierce, Bell and Chavez",Education,2025-12-17,Enterprise
+195,King-Martinez,Technology,2025-12-14,Mid-Market
+196,Stewart Ltd,Finance,2022-12-22,Mid-Market
+197,"Tapia, Vaughn and Lee",Finance,2021-06-23,Enterprise
+198,"Washington, Hardy and Bray",Healthcare,2026-01-01,Mid-Market
+199,"Carlson, Hooper and Wall",Retail,2025-02-15,Small Business
+200,Perez-White,Healthcare,2022-06-28,Mid-Market
+201,Erickson and Sons,Manufacturing,2025-07-01,Mid-Market
+202,Williams-Brown,Finance,2024-04-10,Mid-Market
+203,Terry-Martinez,Manufacturing,2022-04-19,Small Business
+204,Garcia-Smith,Healthcare,2023-02-06,Small Business
+205,Harrison-Alexander,Manufacturing,2021-04-23,Small Business
+206,Sheppard LLC,Healthcare,2025-11-28,Small Business
+207,Wilson-Jones,Education,2021-12-22,Enterprise
+208,Jones-Soto,Technology,2022-08-30,Mid-Market
+209,Hernandez PLC,Healthcare,2021-03-14,Small Business
+210,Miller-Wright,Finance,2024-10-16,Small Business
+211,"Duran, Obrien and Gibbs",Technology,2023-09-16,Mid-Market
+212,Rowe Group,Healthcare,2024-08-08,Enterprise
+213,Kerr-Evans,Education,2022-04-30,Small Business
+214,"Branch, Torres and Oliver",Retail,2024-07-21,Mid-Market
+215,"Choi, Garcia and Farmer",Technology,2022-10-10,Mid-Market
+216,"Clark, Guerrero and Moore",Retail,2024-07-12,Mid-Market
+217,Arnold and Sons,Education,2025-04-23,Enterprise
+218,Ortiz Ltd,Healthcare,2025-01-19,Mid-Market
+219,"Harrison, Johnson and Roberts",Education,2021-07-27,Enterprise
+220,Warner-Gibson,Retail,2022-03-20,Enterprise
+221,"Hall, Baker and Moody",Retail,2025-06-14,Enterprise
+222,"Guerrero, Peck and Coleman",Technology,2022-10-21,Small Business
+223,"Walker, Hernandez and Baker",Finance,2025-10-23,Mid-Market
+224,Jones and Sons,Technology,2023-10-21,Enterprise
+225,Larson-Holloway,Retail,2025-02-09,Enterprise
+226,Gonzales-Harrison,Technology,2025-07-05,Enterprise
+227,Lyons-Bender,Healthcare,2024-03-30,Mid-Market
+228,"Fernandez, Kim and George",Education,2023-09-16,Enterprise
+229,Navarro-Munoz,Manufacturing,2022-07-07,Mid-Market
+230,Davis Ltd,Technology,2024-12-13,Small Business
+231,"Matthews, Smith and Hubbard",Retail,2025-07-29,Enterprise
+232,Johnston-Hines,Finance,2023-12-14,Enterprise
+233,Ruiz Ltd,Manufacturing,2025-09-08,Enterprise
+234,Moon-White,Technology,2024-01-20,Mid-Market
+235,"Graham, Olsen and Costa",Technology,2023-04-16,Small Business
+236,Bailey-Cook,Healthcare,2025-02-27,Mid-Market
+237,"Garcia, Martin and Jenkins",Manufacturing,2022-09-04,Enterprise
+238,Roberts-Landry,Manufacturing,2023-02-19,Mid-Market
+239,"Johnson, Miller and King",Education,2023-05-31,Enterprise
+240,Cordova Group,Technology,2025-10-14,Mid-Market
+241,"Bryan, Smith and Booth",Retail,2023-07-31,Enterprise
+242,Gutierrez-Lopez,Healthcare,2022-12-14,Enterprise
+243,Dean-Jimenez,Healthcare,2023-07-28,Enterprise
+244,Wolf-Harris,Manufacturing,2023-07-01,Small Business
+245,"Anderson, Roberts and Gilmore",Healthcare,2022-10-20,Small Business
+246,Martinez-Dudley,Education,2025-03-14,Mid-Market
+247,"Lloyd, Mckinney and Collins",Technology,2023-09-27,Mid-Market
+248,Tran Inc,Finance,2025-02-13,Small Business
+249,Gay Inc,Technology,2024-01-03,Mid-Market
+250,Valentine-Holland,Finance,2025-10-22,Enterprise
+251,Jimenez Ltd,Retail,2023-05-14,Small Business
+252,Hicks-Hill,Manufacturing,2023-06-28,Mid-Market
+253,Baird-Sanchez,Finance,2022-01-28,Enterprise
+254,"Thomas, Lee and Greene",Education,2025-12-01,Mid-Market
+255,"Suarez, Shields and Hill",Technology,2025-08-29,Mid-Market
+256,Morgan-French,Retail,2024-04-08,Small Business
+257,Hoover-Campbell,Technology,2024-05-24,Mid-Market
+258,Monroe-Carpenter,Healthcare,2023-12-23,Small Business
+259,"Burns, Hernandez and Ryan",Healthcare,2022-04-15,Small Business
+260,Cook-Hines,Retail,2023-07-06,Enterprise
+261,Gibson-Morris,Finance,2021-05-25,Mid-Market
+262,Pollard and Sons,Healthcare,2023-06-27,Enterprise
+263,"Reyes, Chase and Jenkins",Manufacturing,2021-09-17,Enterprise
+264,Garner-Thornton,Manufacturing,2023-12-27,Small Business
+265,Hughes-Alvarado,Healthcare,2024-10-20,Mid-Market
+266,"Pollard, Simpson and Johnson",Manufacturing,2023-03-22,Mid-Market
+267,"Sanford, Rivera and Garcia",Healthcare,2025-02-11,Mid-Market
+268,Garcia-Lozano,Healthcare,2022-11-10,Small Business
+269,Bowen Group,Education,2022-10-04,Mid-Market
+270,"Booker, Jones and Harrington",Finance,2025-08-15,Mid-Market
+271,Morgan-Schwartz,Retail,2023-05-07,Small Business
+272,"Miller, Murphy and Craig",Finance,2025-10-27,Mid-Market
+273,"James, Stewart and Higgins",Education,2023-05-08,Enterprise
+274,Brennan-Johnson,Retail,2022-03-17,Mid-Market
+275,Young Ltd,Finance,2021-12-20,Enterprise
+276,Bright-Francis,Finance,2026-01-12,Mid-Market
+277,Good-Hodges,Finance,2023-01-28,Small Business
+278,"Brennan, Wallace and Benson",Manufacturing,2023-02-07,Mid-Market
+279,Williams Inc,Healthcare,2021-06-21,Enterprise
+280,Howard-Jordan,Finance,2025-07-22,Small Business
+281,Schmidt PLC,Education,2022-12-17,Small Business
+282,"Sparks, Jackson and Miller",Education,2023-01-08,Small Business
+283,Harvey-Allen,Retail,2021-06-27,Enterprise
+284,"Thomas, Murray and King",Finance,2021-11-22,Small Business
+285,Estrada-Nolan,Healthcare,2024-07-22,Enterprise
+286,Santana-Byrd,Healthcare,2023-11-07,Small Business
+287,Jones LLC,Retail,2025-01-21,Enterprise
+288,"Evans, Hayden and Vaughn",Retail,2021-11-23,Small Business
+289,Bruce-Gonzalez,Healthcare,2022-03-18,Small Business
+290,Castaneda-Rodriguez,Technology,2021-01-31,Mid-Market
+291,Armstrong-Andrews,Finance,2025-09-20,Mid-Market
+292,"Phillips, Spence and Barrett",Healthcare,2022-05-20,Small Business
+293,Smith-Grimes,Manufacturing,2024-07-02,Small Business
+294,"Beltran, Lozano and Mcgee",Healthcare,2025-01-31,Small Business
+295,Parsons-Hall,Finance,2025-02-06,Enterprise
+296,Robinson-Lee,Finance,2022-09-26,Small Business
+297,Byrd-Le,Healthcare,2023-06-26,Small Business
+298,"Becker, Taylor and Davis",Technology,2023-10-09,Small Business
+299,"Lucas, Parker and Alexander",Healthcare,2023-06-20,Small Business
+300,"Diaz, Anderson and Browning",Manufacturing,2021-07-17,Mid-Market
+301,Burgess-Thompson,Education,2021-10-19,Small Business
+302,Buchanan LLC,Finance,2025-12-03,Enterprise
+303,"Shaw, Nelson and Martin",Technology,2023-01-06,Enterprise
+304,Coffey-Phillips,Manufacturing,2025-08-04,Enterprise
+305,Brock-Mcdonald,Finance,2021-05-10,Small Business
+306,Taylor and Sons,Retail,2022-07-12,Small Business
+307,"Ramsey, Whitney and Coffey",Manufacturing,2024-08-05,Small Business
+308,"Diaz, Gibbs and Smith",Retail,2022-07-15,Small Business
+309,"Martinez, Richardson and Curry",Manufacturing,2021-05-07,Small Business
+310,Richards-Carson,Retail,2024-06-01,Small Business
+311,Rodriguez-Hall,Education,2025-04-03,Mid-Market
+312,Harvey PLC,Technology,2022-08-16,Mid-Market
+313,Herman-Walker,Healthcare,2023-07-03,Enterprise
+314,Reid Group,Manufacturing,2021-05-11,Small Business
+315,"Turner, Ortiz and Taylor",Finance,2021-02-12,Mid-Market
+316,Torres Group,Technology,2023-07-31,Small Business
+317,Davis PLC,Healthcare,2025-11-14,Mid-Market
+318,Price LLC,Education,2021-12-14,Enterprise
+319,"Avery, Horton and Fernandez",Education,2023-11-21,Enterprise
+320,"Newton, Moore and Perry",Manufacturing,2023-06-18,Small Business
+321,Bass PLC,Finance,2024-11-26,Mid-Market
+322,Crosby-Ramirez,Finance,2025-08-29,Small Business
+323,"Wood, Ramos and Sampson",Healthcare,2025-07-02,Enterprise
+324,Garcia-Jennings,Healthcare,2025-03-29,Small Business
+325,"Winters, Newman and Brown",Retail,2022-03-07,Mid-Market
+326,Lopez-Martinez,Retail,2025-04-30,Small Business
+327,Davis-Lewis,Finance,2025-01-08,Enterprise
+328,"Harper, Smith and Buchanan",Manufacturing,2023-05-12,Mid-Market
+329,Zhang PLC,Education,2022-09-06,Small Business
+330,Jones PLC,Education,2021-12-30,Small Business
+331,Willis and Sons,Technology,2023-11-08,Enterprise
+332,Schroeder-Kramer,Manufacturing,2022-06-03,Enterprise
+333,"Smith, Garrison and Thomas",Education,2024-12-10,Enterprise
+334,Fernandez and Sons,Healthcare,2023-03-25,Enterprise
+335,Guerrero Inc,Healthcare,2022-08-16,Small Business
+336,Smith and Sons,Education,2021-02-27,Small Business
+337,"Morris, Thompson and Williams",Technology,2023-11-28,Small Business
+338,"Fisher, Wilson and Brown",Manufacturing,2023-07-20,Mid-Market
+339,Strickland-Palmer,Retail,2025-11-14,Enterprise
+340,Hayes and Sons,Retail,2022-09-07,Enterprise
+341,"Williams, Logan and Camacho",Retail,2022-07-14,Enterprise
+342,"Turner, Schneider and Johnson",Education,2024-06-27,Small Business
+343,Boone-Simmons,Healthcare,2024-09-04,Mid-Market
+344,Henry Group,Technology,2025-06-03,Small Business
+345,Lam LLC,Retail,2023-10-30,Enterprise
+346,"Hernandez, Martinez and Weber",Healthcare,2021-10-11,Small Business
+347,"Kelley, Nguyen and Vang",Finance,2024-06-13,Mid-Market
+348,"Phillips, Wagner and Jordan",Education,2021-11-07,Mid-Market
+349,"Wilson, Pena and Rich",Retail,2022-08-12,Mid-Market
+350,"Le, Lewis and Hayes",Manufacturing,2022-03-27,Small Business
+351,Gutierrez Group,Finance,2025-02-06,Small Business
+352,Perry-Davis,Retail,2023-10-17,Enterprise
+353,Edwards-Scott,Manufacturing,2023-02-24,Small Business
+354,Mcdaniel Group,Manufacturing,2021-02-05,Mid-Market
+355,Davis Inc,Finance,2023-04-05,Mid-Market
+356,Reynolds Ltd,Healthcare,2024-04-20,Small Business
+357,"Watson, Anderson and Brown",Finance,2023-01-16,Enterprise
+358,"Hoffman, Santiago and Jenkins",Retail,2024-11-02,Enterprise
+359,"Pugh, Henderson and Moon",Finance,2023-04-24,Small Business
+360,Schmitt PLC,Manufacturing,2023-11-05,Enterprise
+361,Bell-Lane,Finance,2023-08-11,Small Business
+362,Moore Group,Technology,2025-12-29,Small Business
+363,Boone LLC,Manufacturing,2025-11-29,Mid-Market
+364,"Richardson, Farmer and Andrews",Technology,2021-02-19,Small Business
+365,Bruce-Villegas,Manufacturing,2023-04-07,Enterprise
+366,"Austin, Day and Johnson",Education,2024-02-06,Small Business
+367,"Gallegos, Adams and White",Retail,2023-01-19,Mid-Market
+368,"Farmer, Dorsey and Bell",Technology,2021-07-27,Mid-Market
+369,Kane PLC,Technology,2022-01-17,Enterprise
+370,"Morales, Thomas and Schultz",Finance,2024-12-30,Mid-Market
+371,Davis PLC,Education,2023-08-26,Enterprise
+372,Bennett Group,Retail,2022-05-26,Enterprise
+373,Moore-Collins,Healthcare,2024-06-27,Enterprise
+374,Frank-Bradley,Retail,2025-04-25,Small Business
+375,Ware and Sons,Education,2023-09-08,Enterprise
+376,Webster Inc,Education,2022-01-14,Mid-Market
+377,"Miller, Ramos and Coleman",Finance,2023-07-20,Enterprise
+378,"Ramos, Nelson and Fischer",Healthcare,2024-03-01,Enterprise
+379,Reed Inc,Manufacturing,2022-12-02,Mid-Market
+380,Gregory-Watkins,Education,2022-11-26,Mid-Market
+381,"Estrada, Williams and Foster",Education,2022-03-05,Enterprise
+382,"Brown, Harris and Dougherty",Finance,2025-02-08,Enterprise
+383,Duran LLC,Retail,2022-05-05,Enterprise
+384,Wilson-Jimenez,Education,2024-11-28,Mid-Market
+385,Thompson-James,Technology,2024-03-20,Small Business
+386,"Hall, Hansen and Barnett",Finance,2024-07-29,Small Business
+387,Jones-Hensley,Manufacturing,2025-09-17,Mid-Market
+388,Graham Group,Retail,2025-01-16,Enterprise
+389,Atkins PLC,Finance,2025-08-12,Mid-Market
+390,Berry-Mckinney,Finance,2022-11-24,Mid-Market
+391,Roberts-Sullivan,Healthcare,2023-02-22,Mid-Market
+392,Jackson-Meza,Manufacturing,2021-09-26,Enterprise
+393,Collier-Gillespie,Technology,2025-07-05,Enterprise
+394,Kim Inc,Education,2024-11-02,Small Business
+395,Graham Group,Technology,2025-07-13,Mid-Market
+396,"Miller, Harrell and Reese",Finance,2024-02-13,Mid-Market
+397,Cook and Sons,Technology,2021-09-14,Small Business
+398,Dixon Inc,Technology,2025-11-02,Mid-Market
+399,"Hicks, Bullock and Bailey",Retail,2021-12-29,Enterprise
+400,"Mullen, Brewer and Hernandez",Finance,2021-07-25,Enterprise
+401,Thomas and Sons,Retail,2025-09-12,Small Business
+402,Morrison Ltd,Education,2025-05-04,Small Business
+403,Thompson Ltd,Manufacturing,2022-10-05,Enterprise
+404,Marshall-Elliott,Manufacturing,2025-11-29,Mid-Market
+405,"Cole, Glass and Cunningham",Retail,2025-08-09,Small Business
+406,"Downs, Morris and Maddox",Education,2022-04-25,Enterprise
+407,Hernandez-Jones,Retail,2022-06-10,Small Business
+408,Welch-Hogan,Healthcare,2023-10-31,Mid-Market
+409,"Brown, Romero and Collins",Manufacturing,2025-06-19,Mid-Market
+410,Johnson-Wood,Education,2024-10-18,Small Business
+411,Jones-Lin,Healthcare,2022-01-11,Enterprise
+412,Gilbert PLC,Healthcare,2022-10-15,Small Business
+413,Ford-Spencer,Retail,2025-12-31,Mid-Market
+414,"Huang, Cole and Pacheco",Finance,2025-03-13,Small Business
+415,"Lopez, Jacobs and Mason",Finance,2021-10-24,Enterprise
+416,Hayes LLC,Education,2025-05-19,Enterprise
+417,"Miller, Lucas and Williams",Manufacturing,2024-10-30,Small Business
+418,"Kim, Gonzales and Mills",Manufacturing,2021-07-06,Small Business
+419,Cox LLC,Education,2024-11-23,Small Business
+420,Ortiz-Morgan,Education,2022-02-28,Mid-Market
+421,"Williams, Mccoy and Cook",Manufacturing,2025-05-28,Enterprise
+422,Davis-Gregory,Healthcare,2024-07-28,Mid-Market
+423,King-York,Healthcare,2024-12-04,Small Business
+424,"Marks, Cook and Aguilar",Technology,2025-11-02,Mid-Market
+425,Rangel LLC,Healthcare,2021-07-13,Enterprise
+426,"Hale, Myers and Larson",Manufacturing,2025-10-17,Mid-Market
+427,Collins Group,Education,2024-12-21,Enterprise
+428,"Conner, Li and Santiago",Manufacturing,2023-08-30,Small Business
+429,"Osborn, Gaines and Davis",Healthcare,2021-03-23,Enterprise
+430,"Henderson, Cox and Cox",Technology,2024-05-29,Mid-Market
+431,Bean LLC,Education,2023-03-16,Mid-Market
+432,Lee-Cooke,Finance,2021-01-24,Enterprise
+433,Jones Inc,Healthcare,2022-11-22,Enterprise
+434,"Wise, Conley and Stephenson",Healthcare,2025-12-16,Mid-Market
+435,Stanley PLC,Technology,2021-08-29,Enterprise
+436,Harper and Sons,Education,2021-06-04,Mid-Market
+437,White Ltd,Technology,2024-08-23,Enterprise
+438,"Lamb, Martin and Kim",Finance,2023-12-21,Enterprise
+439,Diaz-Ball,Technology,2021-08-01,Small Business
+440,Bishop-Goodwin,Retail,2025-08-23,Small Business
+441,Young-Allen,Retail,2021-07-21,Enterprise
+442,Mckee-Lee,Education,2021-08-17,Enterprise
+443,"Valentine, Joyce and Murray",Finance,2025-01-20,Mid-Market
+444,Strickland-Shaw,Healthcare,2021-04-23,Mid-Market
+445,Burch-Montoya,Healthcare,2023-06-25,Mid-Market
+446,"Taylor, Wright and Davidson",Finance,2024-07-08,Mid-Market
+447,Spencer-Garcia,Healthcare,2022-07-28,Mid-Market
+448,"Rosales, Mitchell and Hines",Technology,2022-03-11,Small Business
+449,Cole-Palmer,Manufacturing,2024-08-13,Mid-Market
+450,Davis-Lozano,Finance,2024-03-23,Small Business
+451,Wilkerson-Arias,Retail,2024-04-17,Mid-Market
+452,Brown-Shaw,Finance,2024-11-08,Small Business
+453,Hughes Inc,Education,2024-04-01,Enterprise
+454,Walker-Flores,Retail,2024-03-27,Mid-Market
+455,Combs Ltd,Finance,2021-09-21,Enterprise
+456,Moody-Taylor,Manufacturing,2025-08-17,Small Business
+457,Lowery-Kennedy,Manufacturing,2022-03-04,Mid-Market
+458,Blake Group,Education,2023-12-31,Mid-Market
+459,Gilbert-Bullock,Manufacturing,2022-01-18,Small Business
+460,Scott and Sons,Technology,2022-07-23,Mid-Market
+461,"Bentley, Lynch and Henderson",Retail,2025-08-11,Small Business
+462,Young-Martinez,Finance,2024-05-20,Enterprise
+463,Barnes PLC,Education,2025-07-16,Enterprise
+464,Brown-Copeland,Manufacturing,2022-02-14,Enterprise
+465,Carlson-Smith,Finance,2022-12-07,Mid-Market
+466,"Andrews, Higgins and Carter",Retail,2021-01-25,Enterprise
+467,Mendez and Sons,Healthcare,2021-03-26,Mid-Market
+468,"Butler, Beck and Miller",Finance,2023-07-30,Enterprise
+469,Jones-Fox,Education,2024-12-23,Enterprise
+470,"Hartman, Romero and Smith",Healthcare,2025-09-02,Mid-Market
+471,Williams-Hughes,Education,2024-08-24,Small Business
+472,King-Smith,Technology,2025-07-25,Mid-Market
+473,Cooper Ltd,Finance,2024-04-07,Small Business
+474,"Fuller, Ingram and Moss",Healthcare,2022-12-29,Enterprise
+475,Anderson-Bell,Finance,2023-02-22,Small Business
+476,Li-Thompson,Retail,2024-12-16,Mid-Market
+477,"Marshall, Dominguez and Welch",Technology,2023-12-26,Enterprise
+478,Brown Group,Healthcare,2022-05-11,Enterprise
+479,Carter Inc,Finance,2023-05-21,Small Business
+480,Blackwell LLC,Technology,2022-08-23,Small Business
+481,Robertson-Hays,Technology,2021-12-31,Enterprise
+482,"Kennedy, Johnson and Lucas",Finance,2021-04-25,Enterprise
+483,Kelly-Norman,Retail,2024-08-09,Small Business
+484,"Rivera, Martinez and Richardson",Healthcare,2021-03-04,Enterprise
+485,Paul-Kline,Finance,2023-02-01,Mid-Market
+486,Morgan-Lopez,Manufacturing,2022-10-17,Mid-Market
+487,"Jimenez, Glass and Stone",Finance,2021-08-12,Small Business
+488,Acosta Inc,Finance,2021-11-24,Enterprise
+489,Morrison-Short,Technology,2021-04-29,Small Business
+490,"Carter, Garcia and Murphy",Healthcare,2024-11-02,Mid-Market
+491,Parker-Morrison,Manufacturing,2021-06-15,Enterprise
+492,Jackson-Wallace,Technology,2023-02-14,Mid-Market
+493,Williams-Berg,Education,2021-06-01,Small Business
+494,Mendez-Graham,Manufacturing,2024-06-17,Small Business
+495,"Whitney, Gould and Jones",Finance,2024-10-09,Enterprise
+496,"Sullivan, Palmer and Brady",Manufacturing,2023-01-13,Mid-Market
+497,Cisneros and Sons,Healthcare,2025-08-18,Small Business
+498,"Gregory, Kim and Martinez",Technology,2022-11-21,Small Business
+499,Osborne LLC,Finance,2021-07-09,Small Business
+500,Reyes-Bradley,Education,2022-03-26,Enterprise
