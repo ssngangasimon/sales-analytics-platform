@@ -1,0 +1,96 @@
+# 1. Missing Values
+
+customer_name: Multiple rows are blank (e.g., rows with order_id like ORD-2024-09537, ORD-2023-10100).
+
+region: Some rows have missing or incomplete values (e.g., empty, Nrth, Est, Sout, Wst).
+
+sales_cycle_days: Many rows have missing values (e.g., ORD-2022-07170, ORD-2022-07424).
+
+discount_percent: Some rows are blank but discount_amount may be present, or vice versa (e.g., ORD-2022-05024).
+
+quantity: Some quantities are negative (e.g., -4, -10, -32), which may indicate returns or errors.
+
+status: Mostly consistent, but some are Pending or Cancelled while others are COMPLETED (uppercase variations).
+
+
+# 2. Inconsistent Formatting
+
+## Dates:
+
+Mixed formats (DD/MM/YYYY, MM/DD/YYYY, DD/MM/YY). Some use - as separator, others /. Some are invalid (e.g., 19/10/2022 vs. 24/06/2022).
+
+## Currency/Numbers:
+
+unit_price has inconsistent formatting: some with $, some with commas, some with extra spaces (e.g., "$1,707.82 ").
+
+Some numeric fields have trailing/leading spaces.
+
+## Text Fields:
+
+customer_name sometimes includes quotes and commas (e.g., "Holmes, Williams and Wright").
+
+product_name has inconsistent spacing and naming (e.g., " Standing Desk ", "monitor 27""", "laptop pro", "conference table").
+
+status has mixed case (Completed, COMPLETED, CANCELLED, Cancelled, Pending).
+
+## Region Values:
+
+Abbreviations like Nrth, Est, Sout, Wst instead of North, East, South, West.
+
+Some are completely blank.
+
+
+
+# 3. Duplicates
+There may be duplicate order IDs, but visually scanning shows unique order_id values. However, some transactions may be duplicates in content (same customer, date, amount) but with different IDs.
+
+Data Entry Duplication:
+Example: ORD-2023-03785 appears twice in the dataset with identical details (Hernandez PLC, Notebook Pack, etc.).
+
+
+
+# 4. Outliers & Anomalies
+Negative Quantities:
+Examples: -4, -10, -32. These could be returns or data entry errors.
+
+Extreme Prices:
+Some unit_price values seem abnormally high or low (e.g., $2,455.94 for a monitor vs. $11.27 for a stapler). Need business validation.
+
+Large Quantities:
+Example: quantity = 50 for a monitor, quantity = 44 for an office chair.
+
+Discounts > 100% or Negative:
+Some discount_percent values are high (e.g., 20% is fine, but check logic if subtotal and total_amount don’t align).
+
+total_amount vs Calculated Value:
+In some rows, total_amount ≠ subtotal - discount_amount (e.g., rounding errors or missing tax logic).
+
+sales_cycle_days:
+Some are 0 or very high (e.g., 90 days). Could be valid or data entry errors.
+
+
+
+# 5. Structural & Logical Issues
+Mismatched Calculations:
+Some rows show discount_amount but discount_percent is blank or zero.
+
+subtotal ≠ quantity * unit_price:
+In some rows, the math doesn’t match due to formatting or rounding.
+
+category vs product_name Mismatch:
+Example: "standing desk" under Furniture is fine, but naming inconsistencies may cause grouping issues.
+
+Invalid Regions:
+Nrth, Est, etc., are not standard values.
+
+
+
+# 6. Data Entry Errors
+Typos in Sales Rep Names:
+Example: "Jeffrey Lawrence" vs "Jeffery Wagner" (different people, but check for consistency).
+
+Product Name Variations:
+"Keyboard Elite" vs " Keyboard Elite " vs "keyboard elite".
+
+Date Errors:
+Some dates may be invalid (e.g., 31/02/2023).
